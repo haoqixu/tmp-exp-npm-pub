@@ -1,7 +1,7 @@
 {
-  "name": "codemirror-lang-EXAMPLE",
+  "name": "tmp-exp-npm-pub",
   "version": "0.1.0",
-  "description": "EXAMPLE language support for CodeMirror",
+  "description": "tmp-exp-npm-pub",
   "scripts": {
     "test": "mocha test/test.js",
     "prepare": "rollup -c"
